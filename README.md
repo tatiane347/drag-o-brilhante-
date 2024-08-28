@@ -1,7 +1,8 @@
 # drag-o-brilhante-
 Dragão brilhante feito com HTML, CSS e javascript.
 
----
+---![image](https://github.com/user-attachments/assets/6e8e3729-24ec-42e1-ae91-306b25efacc9)
+
 
 🐉✨ Apresento meu mais recente projeto: o Dragão Brilhante! ✨🐉
 
